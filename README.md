@@ -1,4 +1,7 @@
-flask-video-streaming
+Flask Video Server
 =====================
 
-Supporting code for my article on [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask).
+
+Install: pip install -r requirments.txt
+
+run: python app.py
