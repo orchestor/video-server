@@ -1,4 +1,4 @@
-Flask Video Server
+Video server with Flask and OpenCV
 =====================
 
 
